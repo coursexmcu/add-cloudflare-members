@@ -1,9 +1,4 @@
 [CloudFlare]
-email = your_email@example.com
-token = your_api_key
-
-
-
-
-[Cloudflare]
-token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+email = xXXXXXXX@XXXXX.com
+token = cXXXXaXXXXXXXXXXXXXXXXXXXXXXXXXXX
+api_token = XXXXXXXXXXXXXX_XXXXXXX_XXXXXXXXXXXXXX
